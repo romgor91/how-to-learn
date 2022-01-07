@@ -57,8 +57,7 @@
   background-position: right;
   background-size: contain;
   background-image: url(../images/header-image.png);
-  background-repeat: no-repeat;
-  
+  background-repeat: no-repeat;  
 }
 
 .header__square-pic {
@@ -108,7 +107,7 @@
   line-height: 1.2;
   font-size: 18px;
   margin: 0;
-  font-weight: normal
+  font-weight: normal;
 }
 
 .two-columns__main-text {
@@ -215,9 +214,6 @@
   margin-top: 80px;
 }
 
-
-
-
 .feynman {
   box-sizing: border-box;
   min-height: 890px;
@@ -282,7 +278,6 @@
   top: 0;
   right: -210px;
 }
-
 
 .footer {
   background-color: #1f1f1f;
