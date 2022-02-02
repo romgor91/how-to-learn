@@ -1,0 +1,12 @@
+.header__main-illustration {
+  z-index: 1;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  width: 765px;
+  height: 608px;
+  background-position: right;
+  background-size: contain;
+  background-image: url(../../../images/header-image.png);
+  background-repeat: no-repeat;
+}
